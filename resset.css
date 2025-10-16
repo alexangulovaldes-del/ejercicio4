@@ -1,0 +1,9 @@
+.parallax {
+  background-image: url('/EJERCICIO4/olive-oil_1920.webp');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 20vw;
+}
